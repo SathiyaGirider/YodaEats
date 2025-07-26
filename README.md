@@ -60,8 +60,8 @@ Backend / Database / Authentication:
 
 **Deployment**
 
-Live Site: [https://yodaeats.netlify.app](https://yodaeats.netlify.app)
-Video Demo: [https://youtu.be/P60xdomXESM?si=Q\_R9vZU-OdmiZ\_fP](https://youtu.be/P60xdomXESM?si=Q_R9vZU-OdmiZ_fP)
+*Live Site: [https://yodaeats.netlify.app](https://yodaeats.netlify.app)
+*Video Demo: [https://youtu.be/P60xdomXESM?si=Q\_R9vZU-OdmiZ\_fP](https://youtu.be/P60xdomXESM?si=Q_R9vZU-OdmiZ_fP)
 
 ---
 
