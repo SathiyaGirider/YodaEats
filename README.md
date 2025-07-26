@@ -60,8 +60,10 @@ Backend / Database / Authentication:
 
 **Deployment**
 
-*Live Site: [https://yodaeats.netlify.app](https://yodaeats.netlify.app)
-*Video Demo: [https://youtu.be/P60xdomXESM?si=Q\_R9vZU-OdmiZ\_fP](https://youtu.be/P60xdomXESM?si=Q_R9vZU-OdmiZ_fP)
+* Live Site: https://yodaeats.netlify.app
+* Video Demo: https://youtu.be/P60xdomXESM?si=Q_R9vZU-OdmiZ_fP
+
+
 
 ---
 
@@ -84,4 +86,3 @@ Backend / Database / Authentication:
 
 **Closing Note**
 YodaEats is a creative and functional campus delivery prototype built to enhance everyday student life. It merges design and functionality with a playful, familiar universe — demonstrating how a frontend-first approach can still deliver a compelling user experience with room for full-stack expansion.
-
